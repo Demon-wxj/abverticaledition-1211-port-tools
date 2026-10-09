@@ -1,0 +1,26 @@
+# Local build tools and outputs
+.gradle/
+build/
+out/
+.idea/
+*.iml
+*.class
+*.jar
+*.zip
+*.log
+__pycache__/
+*.pyc
+deps/*
+!deps/README.md
+inputs/
+output/
+run/
+run-*/
+server-test/
+world/
+worlds/
+saves/
+.minecraft/
+.env
+.env.*
+secrets.*
