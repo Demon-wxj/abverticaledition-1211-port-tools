@@ -11,3 +11,7 @@
 - [迁移与检查命令](BUILDING.md)
 - [如何使用迁移结果](INSTALLATION.md)
 - [来源与许可详情](THIRD_PARTY_NOTICES.md)
+
+## 贡献者
+
+Demon-wxj · GPT（OpenAI）。分工见 [CONTRIBUTORS.md](CONTRIBUTORS.md)。
